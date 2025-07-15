@@ -9,9 +9,8 @@ This project analyzes retail sales data from a fictional superstore to uncover t
 - **Python** – Data wrangling and analysis
 - **Pandas, NumPy** – Data manipulation
 - **Matplotlib, Seaborn** – Data visualization
-- **pandasql** – SQL-style queries using SQLite
-- **Jupyter Notebook** – Interactive data exploration
-- **Power BI** – Dashboard reporting (guide included)
+- **Google Colab** – Interactive data exploration
+
 
 #  Dataset Description
 The dataset simulates customer orders from a superstore, including product details, customer info, dates, sales, discounts, profit, and regional data.
@@ -26,7 +25,6 @@ The dataset simulates customer orders from a superstore, including product detai
 -  Trend analysis (monthly and category-wise)
 -  Sub-category profit evaluation
 -  Region/state performance breakdown
--  SQL-style queries with `pandasql`
 -  Statistical summaries
 -  Business recommendations
   
@@ -35,7 +33,6 @@ The dataset simulates customer orders from a superstore, including product detai
 - Bar plots: Category/Sub-category sales
 - Line charts: Monthly sales trend
 - Pie charts: Profit by region
-- SQL tables: Top 5 products by revenue
 - Heatmaps, scatter plots, and more
 
 # Business Insights
