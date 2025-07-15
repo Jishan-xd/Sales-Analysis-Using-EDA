@@ -4,7 +4,7 @@ Welcome to the **Superstore Sales Analysis** project! This repository presents a
 # Project Overview
 This project analyzes retail sales data from a fictional superstore to uncover trends, evaluate category-wise performance, and understand regional profitability. It supports strategic business decisions through data cleaning, SQL-style queries, visualization, and business recommendations.
 
-# 🛠️ Tools & Technologies Used
+# Tools & Technologies Used
 
 - **Python** – Data wrangling and analysis
 - **Pandas, NumPy** – Data manipulation
