@@ -1,0 +1,66 @@
+ Dataset Description – Superstore Sales Data
+This dataset represents transactional sales data from a fictional retail superstore operating across multiple regions. It is widely used in data analytics and visualization practice, especially for sales performance analysis.
+
+-What the Data is About
+The dataset simulates the day-to-day orders of a large retail store and includes information about:
+
+Customer orders
+
+Product categories
+
+Shipping details
+
+Regional sales distribution
+
+Business performance indicators such as Sales, Profit, and Discounts
+
+- Purpose of Analysis
+This dataset is used to:
+
+Identify key revenue-driving products and regions
+
+Analyze monthly and seasonal sales patterns
+
+Understand profit distribution across different product categories and locations
+
+Detect performance gaps, inefficiencies, or losses
+
+Support strategic business decisions using data-driven insights
+
+- What the Dataset Contains
+Column Name	Description
+Order ID	Unique identifier for each order
+Order Date	The date when the order was placed
+Ship Date	The date when the order was shipped
+Ship Mode	The shipping method used (e.g., First Class, Standard Class)
+Customer ID	Unique customer identifier
+Customer Name	Full name of the customer
+Segment	Customer type (Consumer, Corporate, Home Office)
+Country	Country of the customer (all are 'United States')
+City, State, Region	Geographic details of the order
+Product ID	Unique product identifier
+Category	Broad category of product (e.g., Furniture, Office Supplies, Technology)
+Sub-Category	Specific product sub-type
+Product Name	Full name of the product ordered
+Sales	Total price paid for the product(s)
+Quantity	Number of units sold
+Discount	Discount applied on the product
+Profit	Net profit from the sale
+
+- Highlights for Analysis
+Sales & Profit Trends: Track performance over time and across regions
+
+Category Performance: Identify top-selling and high-profit product types
+
+Customer Segmentation: Analyze sales behavior across different customer segments
+
+Regional Insights: Understand which states or cities contribute most to the revenue
+
+Discount Impact: Explore how discounting affects profitability
+
+- Preprocessing Notes
+All null and duplicate values are checked and handled.
+
+Dates are parsed into proper datetime format.
+
+Profit and sales metrics are converted to numerical formats for analysis
